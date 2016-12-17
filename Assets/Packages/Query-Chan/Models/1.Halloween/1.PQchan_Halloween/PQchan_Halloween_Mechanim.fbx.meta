@@ -157,7 +157,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -1060,6 +1060,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human:
     - boneName: Chr_Hips
       humanName: Hips
@@ -1255,295 +1256,295 @@ ModelImporter:
         modified: 0
     skeleton:
     - name: PQchan_Halloween(Clone)
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Body
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Cap
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Reference
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Hips
+      parentName: 
       position: {x: -9.2118314e-26, y: 0.82641035, z: 0.018781984}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Spine
+      parentName: 
       position: {x: -3.5527136e-17, y: 0.13235503, z: 0.017364584}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Wing_L
+      parentName: 
       position: {x: -0.12841123, y: -0.94722885, z: 0.05968268}
       rotation: {x: -0.030072402, y: 0.38847592, z: -0.087063886, w: 0.91684353}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Wing_R
+      parentName: 
       position: {x: 0.12864497, y: -0.9473638, z: 0.059161272}
       rotation: {x: -0.030072402, y: -0.38847592, z: 0.087063886, w: 0.91684353}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Spine1
+      parentName: 
       position: {x: -5.329069e-17, y: 0.15988311, z: -0.013708888}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Neck
+      parentName: 
       position: {x: 4.6240577e-16, y: 0.15988311, z: -0.03472915}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_Head
+      parentName: 
       position: {x: 5.153473e-16, y: 0.10802702, z: 0.02467602}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H01_Front
+      parentName: 
       position: {x: -8.8730587e-16, y: 0.1098998, z: 0.04634617}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H02_L
+      parentName: 
       position: {x: -0.08793476, y: 0.065191776, z: 0.06930589}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H03_L
+      parentName: 
       position: {x: -0.10338834, y: 0.040167414, z: -0.0030618529}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H04_Back
+      parentName: 
       position: {x: -8.794947e-16, y: 0.008379712, z: -0.093014285}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H02_R
+      parentName: 
       position: {x: 0.0879348, y: 0.0651915, z: 0.06930589}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: H03_R
+      parentName: 
       position: {x: 0.103388004, y: 0.040171497, z: -0.00306185}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightShoulder
+      parentName: 
       position: {x: 0.058704156, y: 0.13287789, z: -0.031013591}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightArm
+      parentName: 
       position: {x: 0.06627115, y: -0.0038244629, z: 3.2157388e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightForeArm
+      parentName: 
       position: {x: 0.25051546, y: -0.0047740936, z: -0.0046990286}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightHand
+      parentName: 
       position: {x: 0.18972133, y: 0.0013323976, z: 0.016328143}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftShoulder
+      parentName: 
       position: {x: -0.058704156, y: 0.13287789, z: -0.031013591}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftArm
+      parentName: 
       position: {x: -0.06627115, y: -0.0038244629, z: 3.2157388e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftForeArm
+      parentName: 
       position: {x: -0.25051546, y: -0.0047740936, z: -0.0046990286}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftHand
+      parentName: 
       position: {x: -0.18972133, y: 0.0013323976, z: 0.016328143}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Pai_R
+      parentName: 
       position: {x: 0.067361, y: 0.04522157, z: 0.10569131}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Pai_L
+      parentName: 
       position: {x: -0.06736102, y: 0.04521832, z: 0.1056909}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightUpLeg
+      parentName: 
       position: {x: 0.07704578, y: -0.013692321, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightLeg
+      parentName: 
       position: {x: 0.0022344177, y: -0.3509041, z: -0.0021957026}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightFoot
+      parentName: 
       position: {x: -0.022745226, y: -0.37326598, z: -0.051453613}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_RightToeBase
+      parentName: 
       position: {x: 0.00000007462789, y: -0.047962256, z: 0.10409649}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftUpLeg
+      parentName: 
       position: {x: -0.07704578, y: -0.013692321, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftLeg
+      parentName: 
       position: {x: -0.0022344224, y: -0.3509041, z: -0.002195703}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftFoot
+      parentName: 
       position: {x: 0.022745226, y: -0.37326607, z: -0.05145361}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Chr_LeftToeBase
+      parentName: 
       position: {x: -0.000000071525555, y: -0.047962256, z: 0.10409649}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_R_front
+      parentName: 
       position: {x: 0.060774796, y: 0.031975705, z: 0.11360901}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_R_f_01
+      parentName: 
       position: {x: 0.0312924, y: -0.063527994, z: 0.036479}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_R_side
+      parentName: 
       position: {x: 0.15380299, y: 0.0734827, z: 0.008627412}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_R_s_01
+      parentName: 
       position: {x: 0.067654, y: -0.082017, z: 0.0025429002}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_R_back
+      parentName: 
       position: {x: 0.071764395, y: 0.041575707, z: -0.11693718}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_R_b_01
+      parentName: 
       position: {x: 0.041390598, y: -0.071963, z: -0.0407918}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_L_back
+      parentName: 
       position: {x: -0.07176435, y: 0.04157525, z: -0.1169372}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_L_b_01
+      parentName: 
       position: {x: -0.041391052, y: -0.071962975, z: -0.040792175}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_L_side
+      parentName: 
       position: {x: -0.15380274, y: 0.07348307, z: 0.008627397}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_L_s_01
+      parentName: 
       position: {x: -0.06765463, y: -0.08201692, z: 0.0025429004}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_L_front
+      parentName: 
       position: {x: -0.060774837, y: 0.03197576, z: 0.11360932}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_L_f_01
+      parentName: 
       position: {x: -0.031292327, y: -0.06352819, z: 0.036478892}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_Back
+      parentName: 
       position: {x: 6.9747505e-18, y: 0.049889043, z: -0.12173024}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_Back_01
+      parentName: 
       position: {x: -5.276167e-18, y: -0.08236948, z: -0.05154321}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: skirt_Front
+      parentName: 
       position: {x: -7.2347215e-17, y: 0.03926198, z: 0.12635253}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: s_Front_01
+      parentName: 
       position: {x: 6.474893e-17, y: -0.082253166, z: 0.04281209}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Finger_GGGG
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Finger_Nomal
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Finger_Pa
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Finger_R
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Hair
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Head
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     - name: Skirt
+      parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -1552,7 +1553,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 3
   humanoidOversampling: 1

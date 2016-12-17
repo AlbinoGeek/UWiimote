@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 02d232c5817b6504c8aba7b15a099a21
+timeCreated: 1464791661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Chair
+    100004: Desk
+    100006: Eraser
+    100008: Floor
+    100010: Lamp
+    100012: Pen
+    100014: PenCap
+    100016: Pencil
+    100018: //RootNode
+    100020: Ruler
+    100022: Wall
+    400000: Camera
+    400002: Chair
+    400004: Desk
+    400006: Eraser
+    400008: Floor
+    400010: Lamp
+    400012: Pen
+    400014: PenCap
+    400016: Pencil
+    400018: //RootNode
+    400020: Ruler
+    400022: Wall
+    2300000: Chair
+    2300002: Desk
+    2300004: Eraser
+    2300006: Floor
+    2300008: Pen
+    2300010: PenCap
+    2300012: Pencil
+    2300014: Ruler
+    2300016: Wall
+    2300018: //RootNode
+    3300000: Chair
+    3300002: Desk
+    3300004: Eraser
+    3300006: Floor
+    3300008: Pen
+    3300010: PenCap
+    3300012: Pencil
+    3300014: Ruler
+    3300016: Wall
+    3300018: //RootNode
+    4300000: Ruler
+    4300002: Eraser
+    4300004: Pencil
+    4300006: Pen
+    4300008: PenCap
+    4300010: Desk
+    4300012: Chair
+    4300014: Wall
+    4300016: Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
